@@ -1,0 +1,12 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 00439H 0043AH HOME_TEXT          CODE
+ 00440H 0066CH 0022DH _DATA              DATA
+ 00670H 006AFH 00040H STACK              STACK
+
+Error: Undefined symbol PLAYERCOLOUR in module D:\HOME.ASM
+Error: Undefined symbol PLAYERCOLOUR2 in module D:\HOME.ASM
+Error: Undefined symbol DRAWMAINBOARD in module D:\HOME.ASM
+Program entry point at 0000:0431
+

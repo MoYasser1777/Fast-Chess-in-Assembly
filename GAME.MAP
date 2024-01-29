@@ -1,0 +1,11 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 021CEH 021CFH _TEXT              CODE
+ 021D0H 027D4H 00605H HOME_TEXT          CODE
+ 027E0H 03F57H 01778H _DATA              DATA
+ 03F60H 03FDFH 00080H STACK              STACK
+
+Error: Undefined symbol SENDVALUE in module GAME.ASM
+Program entry point at 0000:1CF8
+
